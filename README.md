@@ -1,0 +1,2 @@
+# splashpage
+my browser startpage
